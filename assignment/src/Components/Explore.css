@@ -1,0 +1,55 @@
+.fund{
+    width: 50%;
+    margin: auto;
+    margin-top: 4rem;
+    color:rgb(74, 70, 70);
+}
+.fund h4{
+    font-size: 22px;
+    margin-bottom: 1rem;
+    color:rgb(74, 70, 70);
+}
+
+.pic{
+    max-width: 3vw;
+    height: auto;
+    margin-bottom: 3vh;
+}
+.containerr{
+    /* border: black solid 1px;
+    width: 50%;
+    margin: auto;
+    text-align: center; */
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    width: calc(25% - 20px); /* Adjust width based on your needs */
+    box-sizing: border-box;
+    height: 25vh;
+    flex-shrink: inherit;
+    
+    
+}
+.first-row {
+    background-color: #f0f0f0;
+}
+.block{
+    display: flex;
+    justify-content: space-between;
+}
+.first-item {
+    background-color: #f0f0f0;
+}
+.para {
+    font-size: 0.5rem;
+    color:rgb(74, 70, 70);
+}
+
+h4 {
+    font-size: 1rem;
+    margin: 10px 0;
+    color:rgb(74, 70, 70);
+}

@@ -1,0 +1,52 @@
+.txt{
+    font-size: 20px;
+    
+   margin-top: 4rem;
+   margin-bottom: 2rem;
+    /* margin: auto; */
+}
+.fulltxt{
+   width: 50%;
+   margin: auto;
+   color: rgb(74, 70, 70);
+   margin-bottom: 2rem;
+}
+.container{
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  color: rgb(74, 70, 70);
+}
+.img1{
+    width: 2vw;
+    height: 3vh;
+}
+.btn{
+  margin: auto;
+  width: 50%;
+  margin-top: 2rem;
+ 
+    
+}
+.btnEdit{
+    width: 8vw;
+    height: 4vh;
+    background-color: rgb(62, 62, 249);
+    border: none;
+    border-radius: 0.1rem;
+    color: aliceblue;
+    font-size: 15px;
+}
+.btnEdit:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    background-color: blue;
+}
+.background{
+    width: 100%;
+    background-color: rgb(232, 228, 228);
+    height: 50vh;
+    padding: 0.2px;
+
+}
