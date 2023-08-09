@@ -26,10 +26,11 @@
     text-align: center;
     display: inline-block;
     vertical-align: top;
-    width: calc(25% - 20px); /* Adjust width based on your needs */
+    /* width: calc(25% - 20px);  */
     box-sizing: border-box;
     height: 25vh;
     flex-shrink: inherit;
+    
     
     
 }
@@ -39,6 +40,8 @@
 .block{
     display: flex;
     justify-content: space-between;
+    width: 50%;
+    margin: auto;
 }
 .first-item {
     background-color: #f0f0f0;
